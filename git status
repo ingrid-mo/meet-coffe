@@ -1,0 +1,22 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 423a574..400d04e 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -73,10 +73,13 @@[m
+                [m
+             <article class="evento">[m
+                <img src="assets/img/scrum-sin-scream.jpg" alt="scrum-sin-scream">[m
+[31m-               <h3>Scrum sin scream</h3></article>[m
+[31m-           [m
+[31m-            [m
+[31m-            [m
+[32m+[m[32m               <h3>Scrum sin scream</h3>[m
+[32m+[m[32m            </article>[m
+[32m+[m[32m      </section>[m
+[32m+[m
+[32m+[m[32m      <section>[m
+[32m+[m[32m         <h2> Scrum sin scream</h2>[m
+[32m+[m[32m         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis vero minus sed fugit maiores itaque, dolor ex tenetur, reprehenderit voluptates cumque. Rerum hic enim fugit eligendi est voluptate culpa nostrum.</p>[m
+       </section>[m
+       <footer id="contacto" class="oscuro">  [m
+          <ul>[m
